@@ -2,44 +2,44 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
-			"background": true,
-			"custom": true,
-			"customDuotone": true,
-			"customGradient": true,
-			"defaultDuotone": false,
-			"defaultGradients": false,
-			"defaultPalette": false,
-			"duotone": [],
-			"gradients": [],
-			"palette": [
-				{
-					"color": "#ffffff",
-					"name": "Base",
-					"slug": "base"
-				},
-				{
-					"color": "#000000",
-					"name": "Contrast",
-					"slug": "contrast"
-				},
-				{
-					"color": "#296DEB",
-					"name": "Primary",
-					"slug": "primary"
-				},
-				{
-					"color": "#2e2e2e",
-					"name": "Secondary",
-					"slug": "secondary"
-				},
-				{
-					"color": "#757575",
-					"name": "Tertiary",
-					"slug": "tertiary"
-				}
-			],
-			"text": true
-		},
+      "background": true,
+      "custom": true,
+      "customDuotone": true,
+      "customGradient": true,
+      "defaultDuotone": false,
+      "defaultGradients": false,
+      "defaultPalette": false,
+      "duotone": [],
+      "gradients": [],
+      "palette": [
+        {
+          "color": "#F4F4F4",
+          "name": "Base",
+          "slug": "base"
+        },
+        {
+          "color": "#3A3A3A",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#FF5733",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#5A5A5A",
+          "name": "Contrast",
+          "slug": "contrast"
+        },
+        {
+          "color": "#64C7CC",
+          "name": "Tertiary",
+          "slug": "tertiary"
+        }
+      ],
+      "text": true
+    },
 		"layout": {
 			"contentSize": "650px",
 			"wideSize": "1332px"
