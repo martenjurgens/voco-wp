@@ -49,51 +49,44 @@
 			"presets": []
 		},
 		"spacing": {
-			"customSpacingSize": true,
-			"spacingScale": {
-				"steps": 0
-			},
-			"spacingSizes": [
-				{
-					"name": "1",
-					"size": "0.5rem",
-					"slug": "30"
-				},
-				{
-					"name": "2",
-					"size": "1rem",
-					"slug": "40"
-				},
-				{
-					"name": "3",
-					"size": "clamp(1.5rem, 2.2408964vw, 2.0rem)",
-					"slug": "50"
-				},
-				{
-					"name": "4",
-					"size": "clamp(2.0rem, 3.3613445vw, 3.0rem)",
-					"slug": "60"
-				},
-				{
-					"name": "5",
-					"size": "clamp(2.0rem, 4.4817927vw, 4.0rem)",
-					"slug": "70"
-				},
-				{
-					"name": "6",
-					"size": "clamp(3.0rem, 6.7226891vw, 6.0rem)",
-					"slug": "80"
-				}
-			],
-			"units": [
-				"%",
-				"px",
-				"em",
-				"rem",
-				"vh",
-				"vw"
-			]
-		},
+      "customSpacingSize": true,
+      "spacingScale": {
+        "steps": 0
+      },
+      "spacingSizes": [
+        {
+          "name": "1",
+          "size": "1rem",
+          "slug": "30"
+        },
+        {
+          "name": "2",
+          "size": "1.5rem",
+          "slug": "40"
+        },
+        {
+          "name": "3",
+          "size": "clamp(2.0rem, 2.7408964vw, 2.5rem)",
+          "slug": "50"
+        },
+        {
+          "name": "4",
+          "size": "clamp(2.5rem, 3.8613445vw, 3.5rem)",
+          "slug": "60"
+        },
+        {
+          "name": "5",
+          "size": "clamp(2.5rem, 5.9817927vw, 5.0rem)",
+          "slug": "70"
+        },
+        {
+          "name": "6",
+          "size": "clamp(4.0rem, 7.2226891vw, 6.5rem)",
+          "slug": "80"
+        }
+      ],
+      "units": ["%", "px", "em", "rem", "vh", "vw"]
+    },
 		"typography": {
 			"customFontSize": true,
 			"dropCap": true,
